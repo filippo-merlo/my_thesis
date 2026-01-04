@@ -2,6 +2,9 @@
 
 My thesis project explores the role of contextual cues in vision-language models for referring expression generation, introducing the Common Objects Out-of-Context (COOCO) dataset to evaluate models’ ability to leverage context under varying scene conditions, and analyzing attention patterns to understand scene processing in multimodal models.
 
+A paper based on my thesis work is currently under review at **TACL**.  
+The preprint is available on [arXiv](https://arxiv.org/abs/2506.22274).
+
 
 ![COOCO example](cooco.png)
 
